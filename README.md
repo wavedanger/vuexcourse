@@ -1,9 +1,10 @@
 # coursedemo
 
-##introduce
+## introduce
 * 基于vuex的用户课程权限管理
 * 项目演示
 <img src="http://wavedanger.gitee.io/vue-music-online/images/vuex.gif" alt="纳尼，图没了？" width="200"/>
+
 * 登录页
 主要利用mutation保存帐号信息，以及初始化权限
 * 课程页
